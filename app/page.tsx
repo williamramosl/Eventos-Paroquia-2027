@@ -126,7 +126,7 @@ export default function Home() {
     className="w-320 h-auto mb-4 drop-shadow-sm" 
   />
 
-  <h1 className="text-4xl font-extrabold text-amber-900 uppercase tracking-widest drop-shadow-sm">Agenda 2027</h1>
+  <h1 className="text-4xl font-extrabold text-amber-900 uppercase tracking-widest drop-shadow-sm">Agenda 2027git </h1>
   <div className="h-1 w-24 bg-amber-700 mx-auto mt-4 rounded-full opacity-80"></div>
   <p className="mt-3 text-stone-500 font-medium tracking-wide text-sm uppercase">Paróquia São Francisco de Assis</p>
 </div>
