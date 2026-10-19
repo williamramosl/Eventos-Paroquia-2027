@@ -10,7 +10,7 @@ const pastoraisPorComunidade: Record<string, string[]> = {
     'Amigos Canção Nova', 'Animação', 'Comissão de Construção', 'Escolinha de Jesus',
     'Grupo de Oração O Bom Pastor – RCC', 'MESCE\'s', 'Movimento Serra',
     'Obra Social São Francisco de Assis', 'Ornamentação Litúrgica', 'Pastoral da Acolhida',
-    'Pastoral da Catequese Infantil', 'Pastoral da Criança', 'Pastoral da Liturgia',
+    'Pastoral da Catequese Infantil', 'Pastoral da Criança', 'Pastoral da Crisma', 'Pastoral da Liturgia',
     'Pastoral da Música', 'Pastoral da Perseverança', 'Pastoral da Pessoa Idosa',
     'Pastoral do Dízimo', 'Pastoral dos Adolescentes - PA', 'Terço dos Homens'
   ],
@@ -22,18 +22,13 @@ const pastoraisPorComunidade: Record<string, string[]> = {
   ],
   'Sagrado Coração de Jesus (SCJ)': [
     'Animação', 'Apostolado da Oração', 'Bazar', 'MESCE\'s', 'Pastoral Catequética',
-    'Pastoral da Acolhida', 'Pastoral da Música', 'Pastoral da Saúde - Farmácia',
+    'Pastoral da Acolhida', 'Pastoral da Catequese Infantil', 'Pastoral da Crisma', 'Pastoral da Música', 'Pastoral da Saúde - Farmácia',
     'Pastoral da Saúde - Visita aos Doentes', 'Pastoral do Dízimo', 'Pastoral Litúrgica',
     'Secretaria', 'Trabalhos Manuais'
   ],
   'Santa Clara de Assis (SCA)': [
     'Animação', 'MESCE\'s', 'Obra Social', 'Pastoral da Acolhida', 'Pastoral da Música',
     'Pastoral do Dízimo', 'Pastoral Litúrgica', 'Secretaria', 'Trabalhos Manuais'
-  ],
-  'Conselho de Pastoral Paroquial CPP': [
-    'Administrador Paroquial - Padre', 'Coordenador do CPP', 'Pastoral da Liturgia Paroquial', 'Pastoral do Dízimo Paroquial', 'MESCE Paroquial',
-    'Pastoral do Batismo Paroquial', 'Pastoral Familiar Paroquial', 'Encontro de Caisais com Crito - ECC', 'Pastoral da Crisma Paroquial',
-    'Pastoral dos Coroinhas Paroquial', 'Catecumenato Paroquial', 'Encontro de Jovens com Cristo - EJC', 'Pastoral da Música Paroquial',
   ]
 };
 
