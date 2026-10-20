@@ -7,7 +7,7 @@ import { ptBR } from 'date-fns/locale/pt-BR';
 
 const pastoraisPorComunidade: Record<string, string[]> = {
   'Matriz São Francisco de Assis (SFA)': [
-    'Amigos Canção Nova', 'Animação', 'Comissão de Construção', 'Escolinha de Jesus',
+    'Amigos Canção Nova', 'Animação', 'Catecumenato', 'Comissão de Construção', 'Escolinha de Jesus',
     'Grupo de Oração O Bom Pastor – RCC', 'MESCE\'s', 'Movimento Serra',
     'Obra Social São Francisco de Assis', 'Ornamentação Litúrgica', 'Pastoral da Acolhida',
     'Pastoral da Catequese Infantil', 'Pastoral da Criança', 'Pastoral da Crisma', 'Pastoral da Liturgia',
