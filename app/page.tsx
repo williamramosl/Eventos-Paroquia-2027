@@ -12,7 +12,7 @@ const pastoraisPorComunidade: Record<string, string[]> = {
     'Obra Social São Francisco de Assis', 'Ornamentação Litúrgica', 'Pastoral da Acolhida',
     'Pastoral da Catequese Infantil', 'Pastoral da Criança', 'Pastoral da Crisma', 'Pastoral da Liturgia',
     'Pastoral da Música', 'Pastoral da Perseverança', 'Pastoral da Pessoa Idosa',
-    'Pastoral do Dízimo', 'Pastoral dos Adolescentes - PA', 'Terço dos Homens'
+    'Pastoral do Dízimo', 'Pastoral dos Adolescentes - PA', 'Terço dos Homens', 'Pastoral Familiar'
   ],
   'São Pedro Pescador (SPP)': [
     'AMO', 'Animação', 'Bordados', 'Cantina', 'Círculos Bíblicos', 'MESCE',
